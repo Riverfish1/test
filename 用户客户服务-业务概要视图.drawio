@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-15T11:36:24.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3KtqO0MXU4PLiUdK4XuF" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-15T12:14:07.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="E75JAYYRQ6o5fVeFjLui" version="13.6.5" type="github">
   <diagram id="n-BbdiELLYWb3FVW2_6k" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,12 +98,6 @@
         </mxCell>
         <mxCell id="ABUGFP2NVGiEVpPpZd0w-36" value="申请各项业务本来是用户客户的事情。这里假设的业务是用户客户自己不直接参与系统，只填写纸质申请单，由业务员或专职检查员代理操作系统" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="1">
           <mxGeometry x="50" y="510" width="180" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="ABUGFP2NVGiEVpPpZd0w-39" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;" edge="1" parent="1">
-          <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="320" y="290" as="sourcePoint" />
-            <mxPoint x="380" y="290" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ABUGFP2NVGiEVpPpZd0w-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="ABUGFP2NVGiEVpPpZd0w-41">
           <mxGeometry relative="1" as="geometry">
