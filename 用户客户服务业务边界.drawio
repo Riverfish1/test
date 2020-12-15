@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-15T11:44:00.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ym-AOPDNrUZ66M6RR6rr" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-15T11:45:58.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="MimdQpxOulvpxnMZ57Jp" version="13.6.5" type="github" pages="3">
   <diagram id="fVtckg6xYKPGh0C4gRNM" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,6 +52,22 @@
         <mxCell id="qTxqzM0TXSJ5WkKehvTQ-17" value="资产管理部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="440" width="30" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UnFZRF0_xaxDoAZm_4K6" name="第 2 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="VMHL4-OKeh0HZNOrpoPC-0" />
+        <mxCell id="VMHL4-OKeh0HZNOrpoPC-1" parent="VMHL4-OKeh0HZNOrpoPC-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="blUqDNuNIfOZnVd0uc2L" name="第 3 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="rPq2UgAgpKlDfZwf4oVi-0" />
+        <mxCell id="rPq2UgAgpKlDfZwf4oVi-1" parent="rPq2UgAgpKlDfZwf4oVi-0" />
       </root>
     </mxGraphModel>
   </diagram>
