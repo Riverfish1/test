@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2020-12-15T11:37:28.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="13.6.5" etag="VFtoOvbU49vWT14sSbBa" type="github"><diagram id="fVtckg6xYKPGh0C4gRNM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-15T11:44:00.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ym-AOPDNrUZ66M6RR6rr" version="13.6.5" type="github">
+  <diagram id="fVtckg6xYKPGh0C4gRNM" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qTxqzM0TXSJ5WkKehvTQ-1" value="用户客户服务业务边界" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="390" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="qTxqzM0TXSJ5WkKehvTQ-2" value="用户客户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qTxqzM0TXSJ5WkKehvTQ-3" value="低压用户客户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qTxqzM0TXSJ5WkKehvTQ-4" value="高压用户客户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qTxqzM0TXSJ5WkKehvTQ-5" value="银行" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qTxqzM0TXSJ5WkKehvTQ-8" value="" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qTxqzM0TXSJ5WkKehvTQ-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="20" y="330" as="sourcePoint" />
+            <mxPoint x="70" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qTxqzM0TXSJ5WkKehvTQ-9" value="" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qTxqzM0TXSJ5WkKehvTQ-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="360" as="sourcePoint" />
+            <mxPoint x="90" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qTxqzM0TXSJ5WkKehvTQ-10" value="业务服务部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qTxqzM0TXSJ5WkKehvTQ-11" value="财务管理部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qTxqzM0TXSJ5WkKehvTQ-12" value="电表抄表部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qTxqzM0TXSJ5WkKehvTQ-13" value="电费管理部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qTxqzM0TXSJ5WkKehvTQ-14" value="现场施工部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qTxqzM0TXSJ5WkKehvTQ-15" value="用电检查部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qTxqzM0TXSJ5WkKehvTQ-17" value="资产管理部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
