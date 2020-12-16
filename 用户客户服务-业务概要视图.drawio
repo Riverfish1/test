@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T12:24:29.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="n-PBMul-0iJsJaFjEZQc" version="13.6.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-12-16T12:30:12.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="nmrtBpIk01nQATXiJNnF" version="13.6.5" type="github" pages="9">
   <diagram id="n-BbdiELLYWb3FVW2_6k" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -267,6 +267,41 @@
             <mxGeometry x="139" y="450" width="130" height="100" as="geometry" />
           </mxCell>
         </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_dOuSOPYbTybu6q-gSKC" name="用户客户服务边界">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Ao0vO5EHGDF5Zy8MI1r3-0" />
+        <mxCell id="Ao0vO5EHGDF5Zy8MI1r3-1" parent="Ao0vO5EHGDF5Zy8MI1r3-0" />
+        <mxCell id="Ao0vO5EHGDF5Zy8MI1r3-2" value="用户客户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="Ao0vO5EHGDF5Zy8MI1r3-1">
+          <mxGeometry x="140" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ao0vO5EHGDF5Zy8MI1r3-3" value="低压用户客户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="Ao0vO5EHGDF5Zy8MI1r3-1">
+          <mxGeometry x="70" y="330" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ao0vO5EHGDF5Zy8MI1r3-4" value="高压用户客户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="Ao0vO5EHGDF5Zy8MI1r3-1">
+          <mxGeometry x="180" y="330" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ao0vO5EHGDF5Zy8MI1r3-7" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;" edge="1" parent="Ao0vO5EHGDF5Zy8MI1r3-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="100" y="320" as="sourcePoint" />
+            <mxPoint x="140" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ao0vO5EHGDF5Zy8MI1r3-8" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;" edge="1" parent="Ao0vO5EHGDF5Zy8MI1r3-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="190" y="320" as="sourcePoint" />
+            <mxPoint x="170" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ao0vO5EHGDF5Zy8MI1r3-9" value="银行" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="Ao0vO5EHGDF5Zy8MI1r3-1">
+          <mxGeometry x="710" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ao0vO5EHGDF5Zy8MI1r3-12" value="用电客户服务业务边界&lt;br&gt;&lt;br&gt;目标：为用户客户办理业务自动化服务，提高办事效率，方便客户，为客户提供更好的服务" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="Ao0vO5EHGDF5Zy8MI1r3-1">
+          <mxGeometry x="300" y="110" width="320" height="440" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
