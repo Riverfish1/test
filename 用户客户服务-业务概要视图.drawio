@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T12:38:59.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="08fKTkefL2s5DPDpeWKu" version="13.6.5" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-12-16T12:41:29.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ddqDbk179NrFbJpVr79n" version="13.6.5" type="github" pages="13">
   <diagram id="n-BbdiELLYWb3FVW2_6k" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -376,6 +376,32 @@
         </mxCell>
         <mxCell id="_6ci5PaKeZemAHOb5rLC-6" value="财务部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="_6ci5PaKeZemAHOb5rLC-1">
           <mxGeometry x="670" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DaORnhbMMcntvhBbtmBS" name="资产管理业务边界">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Zwft16yzsTqPkC7avIMa-0" />
+        <mxCell id="Zwft16yzsTqPkC7avIMa-1" parent="Zwft16yzsTqPkC7avIMa-0" />
+        <mxCell id="Zwft16yzsTqPkC7avIMa-2" value="现场施工部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="Zwft16yzsTqPkC7avIMa-1">
+          <mxGeometry x="120" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zwft16yzsTqPkC7avIMa-3" value="业务服务部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="Zwft16yzsTqPkC7avIMa-1">
+          <mxGeometry x="120" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zwft16yzsTqPkC7avIMa-4" value="电表抄表部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="Zwft16yzsTqPkC7avIMa-1">
+          <mxGeometry x="120" y="420" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zwft16yzsTqPkC7avIMa-5" value="资产管理业务边界&lt;br&gt;&lt;br&gt;目标：管理好供电企业资产，提高资产使用率和设备可靠性；" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="Zwft16yzsTqPkC7avIMa-1">
+          <mxGeometry x="240" y="110" width="320" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="Zwft16yzsTqPkC7avIMa-6" value="用电检查部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="Zwft16yzsTqPkC7avIMa-1">
+          <mxGeometry x="670" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zwft16yzsTqPkC7avIMa-7" value="资产管理部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="Zwft16yzsTqPkC7avIMa-1">
+          <mxGeometry x="670" y="290" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
