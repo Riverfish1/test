@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T12:36:11.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Ut7xFpH7igXcwyCMNu-3" version="13.6.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2020-12-16T12:38:59.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="08fKTkefL2s5DPDpeWKu" version="13.6.5" type="github" pages="12">
   <diagram id="n-BbdiELLYWb3FVW2_6k" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -353,6 +353,29 @@
         </mxCell>
         <mxCell id="hHuHI7hH3Xs49kNEuRco-5" value="用电检查部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="hHuHI7hH3Xs49kNEuRco-1">
           <mxGeometry x="640" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RSJFKUdZD3g5xKBTDeb8" name="营业财务管理业务边界">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="_6ci5PaKeZemAHOb5rLC-0" />
+        <mxCell id="_6ci5PaKeZemAHOb5rLC-1" parent="_6ci5PaKeZemAHOb5rLC-0" />
+        <mxCell id="_6ci5PaKeZemAHOb5rLC-2" value="银行" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="_6ci5PaKeZemAHOb5rLC-1">
+          <mxGeometry x="110" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_6ci5PaKeZemAHOb5rLC-3" value="电费管理部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="_6ci5PaKeZemAHOb5rLC-1">
+          <mxGeometry x="110" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_6ci5PaKeZemAHOb5rLC-4" value="营业财务管理业务边界&lt;br&gt;&lt;br&gt;目标：规范化财管管理，提高电费发行效率，减少人为差错；" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="_6ci5PaKeZemAHOb5rLC-1">
+          <mxGeometry x="230" y="120" width="330" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="_6ci5PaKeZemAHOb5rLC-5" value="电表抄表部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="_6ci5PaKeZemAHOb5rLC-1">
+          <mxGeometry x="670" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_6ci5PaKeZemAHOb5rLC-6" value="财务部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="_6ci5PaKeZemAHOb5rLC-1">
+          <mxGeometry x="670" y="340" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
