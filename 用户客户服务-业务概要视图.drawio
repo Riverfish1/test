@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T12:22:15.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="gnsRMp_w4HFI4zpFQ3ZN" version="13.6.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-12-16T12:24:29.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="n-PBMul-0iJsJaFjEZQc" version="13.6.5" type="github" pages="8">
   <diagram id="n-BbdiELLYWb3FVW2_6k" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,9 +170,11 @@
       <root>
         <mxCell id="lHQWM8sPitKCLS2y9TFR-0" />
         <mxCell id="lHQWM8sPitKCLS2y9TFR-1" parent="lHQWM8sPitKCLS2y9TFR-0" />
-        <mxCell id="I_DZp3KZgjIK8Zr7zKLM-0" value="01涉众" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="lHQWM8sPitKCLS2y9TFR-1">
-          <mxGeometry x="139" y="140" width="130" height="100" as="geometry" />
-        </mxCell>
+        <UserObject label="01涉众" link="data:page/id,AibMIFaEtcDjYKG1RGdu" id="I_DZp3KZgjIK8Zr7zKLM-0">
+          <mxCell style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="lHQWM8sPitKCLS2y9TFR-1">
+            <mxGeometry x="139" y="140" width="130" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="I_DZp3KZgjIK8Zr7zKLM-1" value="02边界" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="lHQWM8sPitKCLS2y9TFR-1">
           <mxGeometry x="370" y="140" width="130" height="100" as="geometry" />
         </mxCell>
@@ -232,6 +234,39 @@
             <mxPoint x="210" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GP8AIQqgV_GEhQHnc9Se" name="边界">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="r8PsVL2QvRPQdulHysKQ-0" />
+        <mxCell id="r8PsVL2QvRPQdulHysKQ-1" parent="r8PsVL2QvRPQdulHysKQ-0" />
+        <UserObject label="用电客户服务" id="5Cf_WU9oBuDh8o0K2cb--0">
+          <mxCell style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="r8PsVL2QvRPQdulHysKQ-1">
+            <mxGeometry x="139" y="140" width="130" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="内部管理" id="5Cf_WU9oBuDh8o0K2cb--1">
+          <mxCell style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="r8PsVL2QvRPQdulHysKQ-1">
+            <mxGeometry x="360" y="140" width="130" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="用电检查" id="5Cf_WU9oBuDh8o0K2cb--2">
+          <mxCell style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="r8PsVL2QvRPQdulHysKQ-1">
+            <mxGeometry x="139" y="300" width="130" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="资产管理" id="5Cf_WU9oBuDh8o0K2cb--3">
+          <mxCell style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="r8PsVL2QvRPQdulHysKQ-1">
+            <mxGeometry x="360" y="300" width="130" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="营业财务" id="5Cf_WU9oBuDh8o0K2cb--4">
+          <mxCell style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="r8PsVL2QvRPQdulHysKQ-1">
+            <mxGeometry x="139" y="450" width="130" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
