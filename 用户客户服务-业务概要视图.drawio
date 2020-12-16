@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T12:33:32.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="rOcQah5YqnYAGiJXq9H6" version="13.6.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-12-16T12:36:11.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Ut7xFpH7igXcwyCMNu-3" version="13.6.5" type="github" pages="11">
   <diagram id="n-BbdiELLYWb3FVW2_6k" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -270,7 +270,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="_dOuSOPYbTybu6q-gSKC" name="用户客户服务边界">
+  <diagram id="_dOuSOPYbTybu6q-gSKC" name="用户客户业务边界">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ao0vO5EHGDF5Zy8MI1r3-0" />
@@ -305,7 +305,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="W2SvLj5sb8X9iOmrMdw5" name="第 10 页">
+  <diagram id="W2SvLj5sb8X9iOmrMdw5" name="内部管理业务边界">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="oZAzYraGrXiT_r35gXAO-0" />
@@ -333,6 +333,26 @@
         </mxCell>
         <mxCell id="oZAzYraGrXiT_r35gXAO-9" value="用电检查部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="oZAzYraGrXiT_r35gXAO-1">
           <mxGeometry x="690" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="i54iUHjoUI-BuRUn3NnB" name="用电检查管理业务边界">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="hHuHI7hH3Xs49kNEuRco-0" />
+        <mxCell id="hHuHI7hH3Xs49kNEuRco-1" parent="hHuHI7hH3Xs49kNEuRco-0" />
+        <mxCell id="hHuHI7hH3Xs49kNEuRco-2" value="现场施工部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="hHuHI7hH3Xs49kNEuRco-1">
+          <mxGeometry x="120" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hHuHI7hH3Xs49kNEuRco-3" value="业务服务部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="hHuHI7hH3Xs49kNEuRco-1">
+          <mxGeometry x="120" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hHuHI7hH3Xs49kNEuRco-4" value="用电检查管理业务边界&lt;br&gt;&lt;br&gt;目标：做好用电检查工作，保障用电安全；" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="hHuHI7hH3Xs49kNEuRco-1">
+          <mxGeometry x="240" y="140" width="300" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="hHuHI7hH3Xs49kNEuRco-5" value="用电检查部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="hHuHI7hH3Xs49kNEuRco-1">
+          <mxGeometry x="640" y="140" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
