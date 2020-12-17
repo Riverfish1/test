@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T12:46:29.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="WKinD0nY5ATh4ytwiuIo" version="13.6.5" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-12-17T00:39:59.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="MUWtcOuDNxk8AXsEGwMl" version="13.6.5" type="github" pages="17">
   <diagram id="n-BbdiELLYWb3FVW2_6k" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -405,6 +405,83 @@
         <mxCell id="Zwft16yzsTqPkC7avIMa-7" value="资产管理部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="Zwft16yzsTqPkC7avIMa-1">
           <mxGeometry x="670" y="290" width="30" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mD1Pt6F9pggu3QcFnYJL" name="1.2-业务分析">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="51JAFG1YuwBWY-Jccesy-0" />
+        <mxCell id="51JAFG1YuwBWY-Jccesy-1" parent="51JAFG1YuwBWY-Jccesy-0" />
+        <mxCell id="51JAFG1YuwBWY-Jccesy-2" value="业务主角" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="51JAFG1YuwBWY-Jccesy-1">
+          <mxGeometry x="120" y="140" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="51JAFG1YuwBWY-Jccesy-3" value="业务用例" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="51JAFG1YuwBWY-Jccesy-1">
+          <mxGeometry x="280" y="140" width="70" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pasZ5ducVM8Tuys9cYBz" name="1.2.1-业务主角">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="r_X6azzw7oRM6m4Fm2Vj-0" />
+        <mxCell id="r_X6azzw7oRM6m4Fm2Vj-1" parent="r_X6azzw7oRM6m4Fm2Vj-0" />
+        <mxCell id="uyn0ZZso9ehUwjoCverD-0" value="财务和电费管理&lt;br&gt;业务主角" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="r_X6azzw7oRM6m4Fm2Vj-1">
+          <mxGeometry x="180" y="150" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uyn0ZZso9ehUwjoCverD-5" value="用电检查&lt;br&gt;业务主角" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="r_X6azzw7oRM6m4Fm2Vj-1">
+          <mxGeometry x="414" y="300" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uyn0ZZso9ehUwjoCverD-6" value="内部管理&lt;br&gt;业务主角" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="r_X6azzw7oRM6m4Fm2Vj-1">
+          <mxGeometry x="414" y="150" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uyn0ZZso9ehUwjoCverD-7" value="资产管理&lt;br&gt;业务主角" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="r_X6azzw7oRM6m4Fm2Vj-1">
+          <mxGeometry x="290" y="450" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uyn0ZZso9ehUwjoCverD-8" value="客户服务&lt;br&gt;业务主角" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="r_X6azzw7oRM6m4Fm2Vj-1">
+          <mxGeometry x="180" y="300" width="90" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nbe3B0ZNVFVnuqg8fxfy" name="1.2.1.1-财务电费管理业务主角">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="GCT8Qq3vEyhQ7A7uXs77-0" />
+        <mxCell id="GCT8Qq3vEyhQ7A7uXs77-1" parent="GCT8Qq3vEyhQ7A7uXs77-0" />
+        <mxCell id="GCT8Qq3vEyhQ7A7uXs77-2" value="营业会计" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="GCT8Qq3vEyhQ7A7uXs77-1">
+          <mxGeometry x="170" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GCT8Qq3vEyhQ7A7uXs77-3" value="电费收费员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="GCT8Qq3vEyhQ7A7uXs77-1">
+          <mxGeometry x="520" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GCT8Qq3vEyhQ7A7uXs77-4" value="电费发行员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="GCT8Qq3vEyhQ7A7uXs77-1">
+          <mxGeometry x="340" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GCT8Qq3vEyhQ7A7uXs77-5" value="电费班长" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="GCT8Qq3vEyhQ7A7uXs77-1">
+          <mxGeometry x="520" y="420" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GCT8Qq3vEyhQ7A7uXs77-6" value="抄表班长" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="GCT8Qq3vEyhQ7A7uXs77-1">
+          <mxGeometry x="340" y="610" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GCT8Qq3vEyhQ7A7uXs77-7" value="抄表内勤" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="GCT8Qq3vEyhQ7A7uXs77-1">
+          <mxGeometry x="340" y="420" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GCT8Qq3vEyhQ7A7uXs77-8" value="营业出纳" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="GCT8Qq3vEyhQ7A7uXs77-1">
+          <mxGeometry x="170" y="420" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GCT8Qq3vEyhQ7A7uXs77-10" value="此图展示了参与财务与电费管理的业务主角" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="GCT8Qq3vEyhQ7A7uXs77-1">
+          <mxGeometry x="130" y="120" width="420" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="n5-m30WMzkRWLX1uzxlO" name="1.2.2-业务用例">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="2VyESNhXVyTh9ONiSKeq-0" />
+        <mxCell id="2VyESNhXVyTh9ONiSKeq-1" parent="2VyESNhXVyTh9ONiSKeq-0" />
       </root>
     </mxGraphModel>
   </diagram>
