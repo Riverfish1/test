@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T11:06:53.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Avu08CUsrySlycMyt1fd" version="13.6.5" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2020-12-17T11:12:20.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Gj3GwWeH0_NuT1dO18hT" version="13.6.5" type="github" pages="26">
   <diagram id="7Y7XtiRaqqfFeoHiy2jX" name="1-Use Case View">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -868,6 +868,87 @@
             <mxPoint x="520" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8w8VSETCYj1EWbqK7tTd" name="1.2.2.4-营业财务业务概要视图">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="iS366UWPc4aOa6jU20fk-0" />
+        <mxCell id="iS366UWPc4aOa6jU20fk-1" parent="iS366UWPc4aOa6jU20fk-0" />
+        <mxCell id="J0VRtBrmLC3KyS_zQu4p-0" value="营业会计" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="iS366UWPc4aOa6jU20fk-1">
+          <mxGeometry x="70" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J0VRtBrmLC3KyS_zQu4p-1" value="电费收费员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="iS366UWPc4aOa6jU20fk-1">
+          <mxGeometry x="70" y="780" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J0VRtBrmLC3KyS_zQu4p-2" value="营业出纳" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="iS366UWPc4aOa6jU20fk-1">
+          <mxGeometry x="70" y="435" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J0VRtBrmLC3KyS_zQu4p-3" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="iS366UWPc4aOa6jU20fk-1">
+          <mxGeometry x="200" y="70" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J0VRtBrmLC3KyS_zQu4p-4" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="iS366UWPc4aOa6jU20fk-1">
+          <mxGeometry x="200" y="190" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J0VRtBrmLC3KyS_zQu4p-5" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="iS366UWPc4aOa6jU20fk-1">
+          <mxGeometry x="200" y="310" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J0VRtBrmLC3KyS_zQu4p-6" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="iS366UWPc4aOa6jU20fk-1">
+          <mxGeometry x="200" y="430" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J0VRtBrmLC3KyS_zQu4p-7" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="iS366UWPc4aOa6jU20fk-1">
+          <mxGeometry x="200" y="550" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J0VRtBrmLC3KyS_zQu4p-8" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="iS366UWPc4aOa6jU20fk-1">
+          <mxGeometry x="200" y="670" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J0VRtBrmLC3KyS_zQu4p-9" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="iS366UWPc4aOa6jU20fk-1">
+          <mxGeometry x="200" y="790" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J0VRtBrmLC3KyS_zQu4p-11" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="iS366UWPc4aOa6jU20fk-1">
+          <mxGeometry x="430" y="190" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J0VRtBrmLC3KyS_zQu4p-12" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="iS366UWPc4aOa6jU20fk-1">
+          <mxGeometry x="430" y="310" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J0VRtBrmLC3KyS_zQu4p-13" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="iS366UWPc4aOa6jU20fk-1">
+          <mxGeometry x="430" y="430" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J0VRtBrmLC3KyS_zQu4p-14" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="iS366UWPc4aOa6jU20fk-1">
+          <mxGeometry x="430" y="550" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J0VRtBrmLC3KyS_zQu4p-15" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="iS366UWPc4aOa6jU20fk-1">
+          <mxGeometry x="430" y="670" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J0VRtBrmLC3KyS_zQu4p-16" value="电费班长" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="iS366UWPc4aOa6jU20fk-1">
+          <mxGeometry x="670" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J0VRtBrmLC3KyS_zQu4p-17" value="电费发行员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="iS366UWPc4aOa6jU20fk-1">
+          <mxGeometry x="670" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J0VRtBrmLC3KyS_zQu4p-18" value="抄表班长" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="iS366UWPc4aOa6jU20fk-1">
+          <mxGeometry x="670" y="435" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J0VRtBrmLC3KyS_zQu4p-19" value="抄表内勤" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="iS366UWPc4aOa6jU20fk-1">
+          <mxGeometry x="670" y="620" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="oSxpIE8iNtoKYF4R76_v" name="第 25 页">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="05NT_MylEJHRJiIsuraK-0" />
+        <mxCell id="05NT_MylEJHRJiIsuraK-1" parent="05NT_MylEJHRJiIsuraK-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aaR285ZmYFFoEQVhWfte" name="第 24 页">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="W3bXJ5Hcx3St_S4c15uj-0" />
+        <mxCell id="W3bXJ5Hcx3St_S4c15uj-1" parent="W3bXJ5Hcx3St_S4c15uj-0" />
       </root>
     </mxGraphModel>
   </diagram>
