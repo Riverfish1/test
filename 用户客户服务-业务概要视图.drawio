@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T11:17:56.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="F8fZ-SjnKBPsxhEdkZRG" version="13.6.5" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2020-12-17T11:21:48.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="tyoA6MspRFQ0uSsMWn5Q" version="13.6.5" type="github" pages="26">
   <diagram id="7Y7XtiRaqqfFeoHiy2jX" name="1-Use Case View">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1008,11 +1008,41 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="oSxpIE8iNtoKYF4R76_v" name="第 25 页">
+  <diagram id="oSxpIE8iNtoKYF4R76_v" name="1.2.2.5-用电检查业务概要视图">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="05NT_MylEJHRJiIsuraK-0" />
         <mxCell id="05NT_MylEJHRJiIsuraK-1" parent="05NT_MylEJHRJiIsuraK-0" />
+        <mxCell id="rUDM8fZ_vE3HAG0KLx8U-0" value="检查员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="05NT_MylEJHRJiIsuraK-1">
+          <mxGeometry x="90" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rUDM8fZ_vE3HAG0KLx8U-1" value="检查内勤" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="05NT_MylEJHRJiIsuraK-1">
+          <mxGeometry x="90" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rUDM8fZ_vE3HAG0KLx8U-2" value="检查班长" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="05NT_MylEJHRJiIsuraK-1">
+          <mxGeometry x="90" y="525" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rUDM8fZ_vE3HAG0KLx8U-3" value="录入用电检查结果" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="05NT_MylEJHRJiIsuraK-1">
+          <mxGeometry x="210" y="200" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUDM8fZ_vE3HAG0KLx8U-4" value="录入违章窃电记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="05NT_MylEJHRJiIsuraK-1">
+          <mxGeometry x="210" y="340" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUDM8fZ_vE3HAG0KLx8U-5" value="制定用电普查计划" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="05NT_MylEJHRJiIsuraK-1">
+          <mxGeometry x="220" y="470" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUDM8fZ_vE3HAG0KLx8U-6" value="制定专项检查计划" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="05NT_MylEJHRJiIsuraK-1">
+          <mxGeometry x="220" y="610" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUDM8fZ_vE3HAG0KLx8U-7" value="管理电气资料档案" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="05NT_MylEJHRJiIsuraK-1">
+          <mxGeometry x="414" y="280" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUDM8fZ_vE3HAG0KLx8U-8" value="维护专户检查记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="05NT_MylEJHRJiIsuraK-1">
+          <mxGeometry x="424" y="410" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUDM8fZ_vE3HAG0KLx8U-9" value="专职检查员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="05NT_MylEJHRJiIsuraK-1">
+          <mxGeometry x="670" y="345" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
