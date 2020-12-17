@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T03:45:13.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Z5Ivw0qrHJy1JA7awc7V" version="13.6.5" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2020-12-17T03:47:34.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="TkwPCcI0NIUHwoL71pLd" version="13.6.5" type="github" pages="22">
   <diagram id="n-BbdiELLYWb3FVW2_6k" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -671,32 +671,44 @@
         <mxCell id="LyMcBpUSQc7Vq5nO5CaE-4" value="业务员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="LyMcBpUSQc7Vq5nO5CaE-1">
           <mxGeometry x="150" y="480" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LyMcBpUSQc7Vq5nO5CaE-5" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="LyMcBpUSQc7Vq5nO5CaE-1">
+        <mxCell id="LyMcBpUSQc7Vq5nO5CaE-5" value="申请临时用电" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="LyMcBpUSQc7Vq5nO5CaE-1">
           <mxGeometry x="280" y="160" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LyMcBpUSQc7Vq5nO5CaE-6" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="LyMcBpUSQc7Vq5nO5CaE-1">
+        <mxCell id="LyMcBpUSQc7Vq5nO5CaE-6" value="申请永久用电" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="LyMcBpUSQc7Vq5nO5CaE-1">
           <mxGeometry x="280" y="260" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LyMcBpUSQc7Vq5nO5CaE-7" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="LyMcBpUSQc7Vq5nO5CaE-1">
+        <mxCell id="LyMcBpUSQc7Vq5nO5CaE-7" value="申请变更用电" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="LyMcBpUSQc7Vq5nO5CaE-1">
           <mxGeometry x="280" y="360" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LyMcBpUSQc7Vq5nO5CaE-8" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="LyMcBpUSQc7Vq5nO5CaE-1">
+        <mxCell id="LyMcBpUSQc7Vq5nO5CaE-8" value="申请暂停用电" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="LyMcBpUSQc7Vq5nO5CaE-1">
           <mxGeometry x="280" y="450" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LyMcBpUSQc7Vq5nO5CaE-9" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="LyMcBpUSQc7Vq5nO5CaE-1">
+        <mxCell id="LyMcBpUSQc7Vq5nO5CaE-9" value="申请销户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="LyMcBpUSQc7Vq5nO5CaE-1">
           <mxGeometry x="280" y="550" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LyMcBpUSQc7Vq5nO5CaE-10" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="LyMcBpUSQc7Vq5nO5CaE-1">
+        <mxCell id="LyMcBpUSQc7Vq5nO5CaE-10" value="故障报修" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="LyMcBpUSQc7Vq5nO5CaE-1">
           <mxGeometry x="280" y="650" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LyMcBpUSQc7Vq5nO5CaE-11" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="LyMcBpUSQc7Vq5nO5CaE-1">
+        <mxCell id="LyMcBpUSQc7Vq5nO5CaE-11" value="交纳业务费用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="LyMcBpUSQc7Vq5nO5CaE-1">
           <mxGeometry x="490" y="360" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LyMcBpUSQc7Vq5nO5CaE-12" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="LyMcBpUSQc7Vq5nO5CaE-1">
+        <mxCell id="LyMcBpUSQc7Vq5nO5CaE-12" value="营业出纳" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="LyMcBpUSQc7Vq5nO5CaE-1">
           <mxGeometry x="740" y="365" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LyMcBpUSQc7Vq5nO5CaE-13" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="LyMcBpUSQc7Vq5nO5CaE-1">
+        <mxCell id="LyMcBpUSQc7Vq5nO5CaE-13" value="银行" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="LyMcBpUSQc7Vq5nO5CaE-1">
           <mxGeometry x="740" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LyMcBpUSQc7Vq5nO5CaE-14" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;" edge="1" parent="LyMcBpUSQc7Vq5nO5CaE-1" source="LyMcBpUSQc7Vq5nO5CaE-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="70" y="380" as="sourcePoint" />
+            <mxPoint x="80" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LyMcBpUSQc7Vq5nO5CaE-15" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;" edge="1" parent="LyMcBpUSQc7Vq5nO5CaE-1" source="LyMcBpUSQc7Vq5nO5CaE-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="160" y="322.3529411764705" as="sourcePoint" />
+            <mxPoint x="90" y="460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
